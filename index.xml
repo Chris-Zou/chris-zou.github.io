@@ -17,7 +17,7 @@
       <pubDate>Sat, 06 Jun 2020 12:48:49 +0800</pubDate>
       
       <guid>https://chris-zou.github.io/blog/</guid>
-      <description>由于目前UE4中PCF的采样次数比较多，过多的采样次数会增加采样的消耗，为了减少采样次数可以使用Hardware PCF，可以将4次采样减少到1次，将9次采样减少到4次，将16次采样同样减少到4次。</description>
+      <description>由于目前UE4中PCF的采样次数比较多，过多的采样次数会增加采样的消耗，为了减少采样次数可以使用Hardware PCF，可以将4次采样减少到1次，将9次采样减少到4次，将16次采样同样减少到4次。 </description>
     </item>
     
     <item>
