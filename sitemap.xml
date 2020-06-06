@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://chris-zou.github.io/blog/</loc>
+    <lastmod>2020-06-06T12:48:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chris-zou.github.io/contact/</loc>
+    <lastmod>2020-06-06T12:45:12+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://chris-zou.github.io/about/</loc>
     <lastmod>2020-06-05T23:55:18+08:00</lastmod>
   </url>

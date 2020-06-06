@@ -12,6 +12,24 @@
     
     
     <item>
+      <title>Blog</title>
+      <link>https://chris-zou.github.io/blog/</link>
+      <pubDate>Sat, 06 Jun 2020 12:48:49 +0800</pubDate>
+      
+      <guid>https://chris-zou.github.io/blog/</guid>
+      <description>This is the first line of this blog!</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://chris-zou.github.io/contact/</link>
+      <pubDate>Sat, 06 Jun 2020 12:45:12 +0800</pubDate>
+      
+      <guid>https://chris-zou.github.io/contact/</guid>
+      <description>Github : https://github.com/Chris-Zou/ Mail : Chriszou2016@gmail.com Location : Shanghai</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://chris-zou.github.io/about/</link>
       <pubDate>Fri, 05 Jun 2020 23:55:18 +0800</pubDate>
